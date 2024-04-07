@@ -1,2 +1,1 @@
-# TerraTrek
-exploring the unexplored parts of India
+"Hi There"
